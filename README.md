@@ -6,7 +6,7 @@ This repository consists of all the files, resources, and recorded session links
 #### Check your details here same will applicable on certificates if your details are missing update in last column  → [[GSheet]](https://docs.google.com/spreadsheets/d/1a9HltVNY4aXfJJ3rlFqmgA_Hn-J9EJ_TwZ3SafqxG00/edit?usp=sharing)
 
 #### Gotomeeting Link → [[Click Here to Join]](https://www.gotomeet.me/apssdcml) → Meeting Id → 567-995-373
-
+#### Join the Slack Channel for Communication Purpose [[Click Here to Join]](https://join.slack.com/t/apssdc-community/shared_invite/zt-hww26l85-kXHPDc7pZ6Jxhx_U4tYsSg)
 
 #### APSSDC ML Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
 
