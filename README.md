@@ -52,8 +52,9 @@ Discussed Concepts:
 - Machine Learning Classification 
 - Types of Algorithms
 ### Materials
-Introduction PPT [--> Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-01/Copy%20of%20Machine%20Learning%20%20presentation.pptx)<br>
-Recorded Vedio [--> Click Here](https://transcripts.gotomeeting.com/#/s/3dd6b5188d1b90f6ede12124fc2ce2dffbdd23f15e3973b887db6de76f2833d8)<br>
+#### Introduction PPT --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-01/Copy%20of%20Machine%20Learning%20%20presentation.pptx)
+
+#### Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/3dd6b5188d1b90f6ede12124fc2ce2dffbdd23f15e3973b887db6de76f2833d8)
 
 -----------------
 
