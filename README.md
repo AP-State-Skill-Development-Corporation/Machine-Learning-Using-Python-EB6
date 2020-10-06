@@ -44,3 +44,16 @@ Discussed Concepts:
 *************************
 --->
 **********************
+
+## Day-1 (05-10-2020):
+
+### Discussed Topics:
+- What is Machine Learning 
+- Machine Learning Classification 
+- Types of Algorithms
+### Materials
+Introduction PPT [--> Click Here]()<br>
+Recorded Vedio [--> Click Here](https://transcripts.gotomeeting.com/#/s/3dd6b5188d1b90f6ede12124fc2ce2dffbdd23f15e3973b887db6de76f2833d8)<br>
+
+-----------------
+
