@@ -45,16 +45,29 @@ Discussed Concepts:
 --->
 **********************
 
-## Day-1 (05-10-2020):
+## Day-01 (05-10-2020):
 
 ### Discussed Topics:
 - What is Machine Learning 
 - Machine Learning Classification 
 - Types of Algorithms
 ### Materials
-#### Introduction PPT --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-01/Copy%20of%20Machine%20Learning%20%20presentation.pptx)
+#### Introduction PPT --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-01/Copy%20of%20Machine%20Learning%20%20presentation.pdf)<br>
 
 #### Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/3dd6b5188d1b90f6ede12124fc2ce2dffbdd23f15e3973b887db6de76f2833d8)
 
 -----------------
 
+## Day-02 (06-10-2020):
+
+### Discussed Topics:
+- Reading and manipulating CSV files
+- Linear Regression with One variable 
+- Evaluation Metrics in Regression Models 
+- Train/Test splitting of data & Cross-Validation 
+- Linear Regression with Multiple Variables
+
+### Materials
+#### Class Jupyter Notebook --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-02(06-10-2020)/06-10-2020%20Linear%20Regression.ipynb)<br>
+
+#### Recorded Video --> [Click Here](No recoreded video)
