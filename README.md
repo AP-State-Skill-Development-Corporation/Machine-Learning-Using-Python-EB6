@@ -71,3 +71,21 @@ Discussed Concepts:
 #### Class Jupyter Notebook --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-02(06-10-2020)/06-10-2020%20Linear%20Regression.ipynb)<br>
 
 #### Recorded Video --> [Click Here](No recoreded video)
+
+----------
+
+## Day-03 (07-10-2020):
+
+### Discussed Topics:
+- Linear Regression with Multiple Variables
+- Under fitting, Overfitting
+- Best fit Polynomial Features 
+- Non-Linear Regression with One variable (Polynomial Regression)
+- Non-Linear Regression with Multiple Variable (Polynomial Regression)
+
+### Materials
+#### Class Jupyter Notebook1 --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-03(07-10-2020)/07_10_2020.ipynb)<br>
+#### Class Jupyter Notebook2 --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-03(07-10-2020)/Polynomial%20Rergression.ipynb)<br>
+#### Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/ae29d137bc4494c432bc7724f43b1a3c02497fe391f6ce7b2fb827549b70370b)<br>
+
+--------
