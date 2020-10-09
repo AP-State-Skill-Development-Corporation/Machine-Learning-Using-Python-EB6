@@ -89,3 +89,16 @@ Discussed Concepts:
 #### Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/ae29d137bc4494c432bc7724f43b1a3c02497fe391f6ce7b2fb827549b70370b)<br>
 
 --------
+## Day-03 (07-10-2020):
+
+### Discussed Topics:
+- Introduction to categorical types of data
+- Types of classification
+- K-Nearest Neighbors Classifier
+- Evaluation Metrics for classification Models
+### Materials
+#### Class Jupyter Notebook1 --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-04(08-10-2020)/8-10-2020(Classification).ipynb)<br>
+#### Class Jupyter Notebook2 --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-03(07-10-2020)/Polynomial%20Rergression.ipynb)<br>
+#### Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/082f3333e740e7cb6cc076391cdf8a516902dbcf504c9b2a10f957752bf44980)<br>
+
+--------
