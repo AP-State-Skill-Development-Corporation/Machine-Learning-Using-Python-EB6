@@ -97,8 +97,7 @@ Discussed Concepts:
 - K-Nearest Neighbors Classifier
 - Evaluation Metrics for classification Models
 ### Materials
-#### Class Jupyter Notebook1 --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-04(08-10-2020)/8-10-2020(Classification).ipynb)<br>
-#### Class Jupyter Notebook2 --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-03(07-10-2020)/Polynomial%20Rergression.ipynb)<br>
+#### Class Jupyter Notebook --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-04(08-10-2020)/8-10-2020(Classification).ipynb)<br>
 #### Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/082f3333e740e7cb6cc076391cdf8a516902dbcf504c9b2a10f957752bf44980)<br>
 
 --------
