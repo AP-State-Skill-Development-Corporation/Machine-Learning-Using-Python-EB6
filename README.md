@@ -70,7 +70,7 @@ Discussed Concepts:
 ### Materials
 #### Class Jupyter Notebook --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-02(06-10-2020)/06-10-2020%20Linear%20Regression.ipynb)<br>
 
-#### Recorded Video --> [Click Here](No recoreded video)
+#### Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/04735861ecc057435a59d704f7d46f7db78cde526294a26e0184b06912dade36)
 
 ----------
 
@@ -89,7 +89,7 @@ Discussed Concepts:
 #### Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/ae29d137bc4494c432bc7724f43b1a3c02497fe391f6ce7b2fb827549b70370b)<br>
 
 --------
-## Day-03 (07-10-2020):
+## Day-04 (08-10-2020):
 
 ### Discussed Topics:
 - Introduction to categorical types of data
@@ -99,5 +99,18 @@ Discussed Concepts:
 ### Materials
 #### Class Jupyter Notebook --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-04(08-10-2020)/8-10-2020(Classification).ipynb)<br>
 #### Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/082f3333e740e7cb6cc076391cdf8a516902dbcf504c9b2a10f957752bf44980)<br>
+
+--------
+## Day-05 (09-10-2020):
+
+### Discussed Topics:
+- Logistic regression
+- Difference between linear Regression and Logistic Regression
+- Support Vector Machines
+- Svm with Linear data
+- Svm with nonlinear data
+### Materials
+#### Class Jupyter Notebook --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-05(09-10-2020)/Day5-Logistic%20Classification%26%20SVM.ipynb)<br>
+#### Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/35a8a443d0662d8f1d2af6d078fb55fc01764db839834d2869a440ce45c21a11)<br>
 
 --------
