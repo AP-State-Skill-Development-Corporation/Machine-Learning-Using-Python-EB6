@@ -114,3 +114,15 @@ Discussed Concepts:
 #### Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/35a8a443d0662d8f1d2af6d078fb55fc01764db839834d2869a440ce45c21a11)<br>
 
 --------
+
+
+## Day07 Classification models-2	(12-Oct-2020)
+
+1. Decision Tree Regressor
+2. Evaluation Metrics
+3. Ensemble Methods and Types
+4. Introduction Random Forest Algorithm
+
+### Day07_Decision_Tree Regressor [[.ipynb format]](Day07_12Oct2020/Day07_12Oct2020_Decision_Tree_Regressor.ipynb), [[.pdf format]](Day07_12Oct2020/Day07_12Oct2020_Decision_Tree_Regressor.pdf)
+### [[Day03_Slides]](Day07_12Oct2020/RandomForest_Slides.pdf)
+### [[Day_03_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/e3fa4135da6869f1cddfe50fbf7c93c4b0c48c580fe5168a395028cf59bd08d9)
