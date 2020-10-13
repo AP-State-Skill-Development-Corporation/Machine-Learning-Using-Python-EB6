@@ -114,6 +114,18 @@ Discussed Concepts:
 #### Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/35a8a443d0662d8f1d2af6d078fb55fc01764db839834d2869a440ce45c21a11)<br>
 
 --------
+## Day-06 Classification models-1 (10-10-2020):
+
+### Discussed Topics:
+- Introduction to Decision Tree
+- Terminology related to Decision Trees
+- Types of Decision Trees
+- Decision Trees Classifier
+### Materials
+#### Class Jupyter Notebook --> [Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB6/blob/master/Day-06(10-10-2020)/Day6-(Decision%20Tree).ipynb)<br>
+#### Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/b326b575cb6fd1f09b5d803374811f2266fd6b1261ea868634b68b654b94b65b)<br>
+
+--------
 
 
 ## Day07 Classification models-2	(12-Oct-2020)
