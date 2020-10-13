@@ -139,7 +139,7 @@ Discussed Concepts:
 ### [[Day07_Slides]](Day07_12Oct2020/RandomForest_Slides.pdf)
 ### [[Day07_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/e3fa4135da6869f1cddfe50fbf7c93c4b0c48c580fe5168a395028cf59bd08d9)
 -----------------------
-## Day08 Unsupervised Learning and Clustering (11-Sept-2020)
+## Day08 Unsupervised Learning and Clustering (13-Oct-2020)
 ### Discussed Concepts
 
 1. Random Forest Classifier
