@@ -2,19 +2,22 @@
 # Machine-Learning-Using-Python
 
 This repository consists of all the files, resources, and recorded session links which are discussed during Machine Learning using Python Online Training.
+
+#### APSSDC ML Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
+#### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
+
 <!---
+
 #### Check your details here same will applicable on certificates if your details are missing update in last column  → [[GSheet]](https://docs.google.com/spreadsheets/d/1a9HltVNY4aXfJJ3rlFqmgA_Hn-J9EJ_TwZ3SafqxG00/edit?usp=sharing)
--->
+
 #### Gotomeeting Link → [[Click Here to Join]](https://www.gotomeet.me/apssdcml) → Meeting Id → 567-995-373
 #### Join the Slack Channel for Communication Purpose [[Click Here to Join]](https://join.slack.com/t/apssdc-community/shared_invite/zt-hww26l85-kXHPDc7pZ6Jxhx_U4tYsSg)
 
-#### APSSDC ML Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
 
-#### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
 
 ### Instructions for attendance
 
-Everyone should compulsory follow the below instruction in order to get the attendance --> Certificate
+Everyone should compulsory follow the below instruction in order to get the attendance  Certificate
 
 1. Login format **`rollnumber-name-college`**
 2. Don't give spaces in roll number or shorcut of your roll number
@@ -22,8 +25,6 @@ Everyone should compulsory follow the below instruction in order to get the atte
 4. Make sure roll number should match with the registered roll number
 5. Minimum **`120/150`** minutes should attend in **`150/180 minutes`** session with same login format
 
-<!-----
-******************************
 Reference purpose follow this below things
 
 1. Commit message format
@@ -151,3 +152,16 @@ Discussed Concepts:
 ### Day08_Decision_Tree Regressor [[.ipynb format]](Day08_12Oct2020/Day08_Unsupervised_Learning.ipynb), [[.pdf format]](Day08_12Oct2020/Day08_Unsupervised_Learning.pdf)
 ### [[Day08_Slides]](Day08_12Oct2020/Unsupervised_Learning_Slides.pdf)
 ### [[Day08_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/c33a094cf2b8e10e6c71bad2e276101ab5ed42521959a3e5e81f985d1be5004b)
+----------------------------
+
+## Day09 Dimensionality Reduction	(14-Oct-2020)
+### Discussed Concepts
+
+1. Dimensionality reduction
+2. Principal Component Analysis (PCA)
+
+### Day09 Jupyter Notebook [[.ipynb format]](Day09_14Oct2020/Dimensionality_Reduction_on_Wine_Data.ipynb), [[.pdf format]](Day09_14Oct2020/Dimensionality_Reduction_on_Wine_Data.pdf)
+### [[Day09_Slides]](Day09_14Oct2020/Dimensionality_Reduction_Slides.pdf)
+### [[Day09_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/f92ebbb0a979920ab50c84984a665b13b3cdb2aef0c864dda8dbc2863dae8342)
+-----------------------------------
+<img src="https://media1.tenor.com/images/98c6d5e76d6069f4f7d42ee937f4dc98/tenor.gif?itemid=15177778" alt="centered image" height = 249 width = 249/>
