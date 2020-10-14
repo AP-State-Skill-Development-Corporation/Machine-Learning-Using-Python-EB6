@@ -129,12 +129,25 @@ Discussed Concepts:
 
 
 ## Day07 Classification models-2	(12-Oct-2020)
-
+### Discussed Concepts
 1. Decision Tree Regressor
 2. Evaluation Metrics
 3. Ensemble Methods and Types
 4. Introduction Random Forest Algorithm
 
 ### Day07_Decision_Tree Regressor [[.ipynb format]](Day07_12Oct2020/Day07_12Oct2020_Decision_Tree_Regressor.ipynb), [[.pdf format]](Day07_12Oct2020/Day07_12Oct2020_Decision_Tree_Regressor.pdf)
-### [[Day03_Slides]](Day07_12Oct2020/RandomForest_Slides.pdf)
-### [[Day_03_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/e3fa4135da6869f1cddfe50fbf7c93c4b0c48c580fe5168a395028cf59bd08d9)
+### [[Day07_Slides]](Day07_12Oct2020/RandomForest_Slides.pdf)
+### [[Day07_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/e3fa4135da6869f1cddfe50fbf7c93c4b0c48c580fe5168a395028cf59bd08d9)
+-----------------------
+## Day08 Unsupervised Learning and Clustering (13-Oct-2020)
+### Discussed Concepts
+
+1. Random Forest Classifier
+1. Unsupervised Learning
+2. Intro. to Clustering, Types, and Applications
+3. KMeans Clustering
+4. Customer Segmentation using KMeans Algorithm
+
+### Day08_Decision_Tree Regressor [[.ipynb format]](Day08_12Oct2020/Day08_Unsupervised_Learning.ipynb), [[.pdf format]](Day08_12Oct2020/Day08_Unsupervised_Learning.pdf)
+### [[Day08_Slides]](Day08_12Oct2020/Unsupervised_Learning_Slides.pdf)
+### [[Day08_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/c33a094cf2b8e10e6c71bad2e276101ab5ed42521959a3e5e81f985d1be5004b)
